@@ -1,0 +1,40 @@
+.container {
+  font-family: "Almarai", sans-serif;
+  font-size: 14px;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 0;
+  margin-top: 50px;
+}
+
+.left {
+  max-width: 500px;
+  margin-left: 200px;
+  float: left;
+}
+
+.right {
+  list-style-type: none;
+  margin-right: 200px;
+  padding: 0;
+  width: 100px;
+  text-align: right;
+  float: right;
+}
+
+.interests {
+  margin-top: 30px;
+}
+
+.pno-space {
+  margin-bottom: 5px;
+}
+
+.ulno-space {
+  margin-top: 0;
+  padding-left: 1em;
+}
