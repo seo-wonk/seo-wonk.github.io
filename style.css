@@ -1,7 +1,7 @@
 .container {
   font-family: "Almarai", sans-serif;
   font-size: 14px;
-  height: 100%;
+  height: auto;
   width: 100%;
   position: fixed;
   z-index: 1;
@@ -14,7 +14,7 @@
   max-width: 500px;
   margin-left: 200px;
   float: left;
-  height: 100%;
+  height: auto;
 }
 
 .right {
