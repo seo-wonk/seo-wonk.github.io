@@ -38,3 +38,17 @@
   margin-top: 0;
   padding-left: 1em;
 }
+
+.list {
+  margin-bottom: 70px;
+}
+
+.title {
+  margin-bottom: 15px;
+}
+
+.portfolio img {
+  margin-bottom: 0px;
+  border-style: inset;
+  display: block;
+}
